@@ -18,6 +18,6 @@
 
 
 ### 📊 GitHub Stats
-![Mahamadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahaDeadHead23&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahaDeadHead23&layout=compact&theme=radical)
+![Mahamadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahamadoudansoko&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahamadoudansoko&layout=compact&theme=radical)
 
