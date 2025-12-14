@@ -15,8 +15,9 @@
 ### 👨‍💻 About Me
 I'm **Mahamadou Dansoko**, a Network Security Engineer and SOC Analyst passionate about Network Security for Intelligent Systems, IoT, and Cybersecurity Research. I explore how secure communication, threat detection, and AI can shape smarter, safer technologies.
 
-- 🔭 Currently working on **UAV–RIS–ISAC System Optimization and IoT Security**
-- 🌱 Learning **Machine Learning for Communication Systems and Embedded Security**
+- 🔐 Currently working on **Cybersecurity Integration Tools (EDR/XDR, NDR, SIEM, SOAR**, and many more.🎯
+- 🔭 Worked on **UAV–RIS–ISAC System Optimization and IoT Security**
+- 🌱 **Machine Learning for Communication Systems and Embedded Security**
 - 💡 Interested in **Threat Hunting, R&D, Prototyping, and Secure IoT Architectures**
 - 🎯 Goal: **Build secure, intelligent, and resilient networked systems**
 - 🌍 Based in **Morocco 🇲🇦** | Originally from **Mali 🇲🇱**
