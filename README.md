@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Network+Security+Engineer+🔐;SOC+Analyst+(L1+%26+L2)+🛡️;IoT+%26+Cybersecurity+Researcher+🌐;Building+Secure+%26+Intelligent+Systems+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Network+Security+Engineer+🔐;Cybersecurity+Integration+Solutions+Activist+🛡️;IoT+%26+Cybersecurity+Researcher+🌐;Building+Secure+%26+Intelligent+Systems+🚀" alt="Typing SVG" />
   </a>
 </div>
 
@@ -47,7 +47,7 @@ I'm **Mahamadou Dansoko**, a Network Security Engineer and SOC Analyst passionat
   
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original-wordmark.svg" alt="Splunk" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
