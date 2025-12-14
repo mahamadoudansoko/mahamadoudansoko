@@ -47,7 +47,7 @@ I'm **Mahamadou Dansoko**, a Network Security Engineer and SOC Analyst passionat
   
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original-wordmark.svg" alt="Splunk" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
