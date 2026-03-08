@@ -96,7 +96,7 @@ I'm **Mahamadou Dansoko**, a Network Security Engineer, SOC Analyst, and DevOps 
     <td width="50%">
       <h3 align="center">🛡️ Secure SIEM/SOAR Lab</h3>
       <div align="center">  
-        <a href="https://github.com/mahamadoudansoko/Secure-SIEM-SOAR-Lab" target="_blank">
+        <a href="https://github.com/mahamadoudansoko/Secure-SIEM-ELK-SOAR-Lab" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
         </a>
         <p><strong>SOC Platform | ELK Stack | TheHive | Cortex | MISP</strong></p>
